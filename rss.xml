@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[OLAM]]></title>
         <description><![CDATA[OLAM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 18:29:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 18:33:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03cce97-1e36-412f-a428-6546804ac687.png">]]></description>
-            <link>undefined463be795-4a14-482d-ae13-eee1453bc78c/index.html</link>
+            <link>https://thegrid.ai/olam/463be795-4a14-482d-ae13-eee1453bc78c/index.html</link>
             <guid isPermaLink="false">463be795-4a14-482d-ae13-eee1453bc78c</guid>
             <pubDate>Fri, 15 Apr 2016 18:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9044c3-cea2-458a-ad87-f8ef685caf33.png">]]></description>
+            <link>https://thegrid.ai/olam/bb5495ca-3b5b-4f64-8afc-10ca786ae33e/index.html</link>
+            <guid isPermaLink="false">bb5495ca-3b5b-4f64-8afc-10ca786ae33e</guid>
+            <pubDate>Fri, 15 Apr 2016 18:32:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
