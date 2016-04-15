@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.4874552
+color:
+  saturation: 0
+  lightness: 0.5376344
+  brandStrength: 0.4444444
+  rhythmicContrast: 0.01792115
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: OLAM
